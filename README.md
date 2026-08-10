@@ -1,5 +1,5 @@
 👋 Hi, I’m Eyasu  
-👀 I’m interested in designing intelligent systems incorporating IT Security, Cloud Engineering & AI Engineering  
+👀 I’m interested in designing intelligent systems that incorporate IT Security, Cloud Engineering & AI Engineering  
 🌱 I’m currently working on AAS digital twins, incident response assessment, adversarial ML, and secure low‑level C programming  
 💻 I use Python, Java, C, Go, Docker, BaSyx, AWS/Azure, and security tooling  
 🚀 Building secure, intelligent systems in Heilbronn, Germany  
