@@ -1,4 +1,4 @@
-👋 Hi, I’m Eyasu  
+👋 Hi, I’m Eyasu.  
 👀 M.Sc. IT Security student focused on Cloud Security & Secure AI Engineering.  
 🌱 I’m currently working on AAS digital twins, incident response assessment, adversarial ML, and secure low‑level C programming.  
 💻 I use Rust, Python, Java, C, Go, Docker, BaSyx, AWS/Azure, and security tooling.  
